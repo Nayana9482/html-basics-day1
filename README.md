@@ -13,6 +13,15 @@ This repository contains my practice files while learning HTML.
 
 ## Files
 - basic page.html
+- ## Upcoming Topics
+- Lists
+- Links
+- Images
+- Tables
+- Forms
+- Semantic tags
 
-## Learning Goal
-To build strong frontend fundamentals in HTML, CSS, and JavaScript.
+## Goal
+Learning frontend development step by step using HTML, CSS, and JavaScript.
+
+
